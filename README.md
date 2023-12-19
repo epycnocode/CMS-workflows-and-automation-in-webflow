@@ -47,14 +47,5 @@ function sendEmail(data) {
 </script>
 ```
 
-**4. Remember:**
-
-  - Start small and gradually build your workflows to avoid complexity.
-  - Test your implementations thoroughly on different devices and browsers.
-  - Leverage Webflow's built-in features before diving into custom code.
-
-**Bonus Tip:** Explore Webflow University's resources on CMS automation and custom code injection to unlock the full potential of your Webflow CMS.
-
-
 # Need help?
 Stuck with custom css code? [Contact us](https://epyc.in/).
